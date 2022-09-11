@@ -1,0 +1,22 @@
+VERSION="2.0.0"
+NETWORK_PASSPHRASE = "Public Global Stellar Network ; September 2015"
+ACCOUNTS = []
+
+[DOCUMENTATION]
+ORG_NAME="iON"
+ORG_DBA="iON token"
+ORG_URL="https://www.cernbank.com/"
+ORG_LOGO = "https://uploads-ssl.webflow.com/630b87ea987588ea5298189a/630b8cb457c56afa48225e87_iON%20credits.png"
+ORG_TWITTER="iON_token"
+ORG_DESCRIPTION="Claim free stimulus money. iON coin was created to replace all Latin American currencies before 2024 in order to usher LATAM into a new digital economy. Visit Cernbank.com to learn more."
+
+[[CURRENCIES]]
+code = "iON"
+issuer = "GBN3CU5Y6BSK2KCRPVANUZUWTO6G6ZGLMX6OPGJVFOHDKPUK56QGT3XK"
+image = "https://uploads-ssl.webflow.com/630b87ea987588ea5298189a/630b8cb457c56afa48225e87_iON%20credits.png"
+desc="Claim free stimulus money. iON coin was created to replace all Latin American currencies before 2024 in order to usher LATAM into a new digital economy. Visit Cernbank.com to learn more."
+is_asset_anchored=true
+anchor_asset_type="crypto"
+anchor_asset="iON"
+fixed_number=922,337,203,685.4775807
+status="live"

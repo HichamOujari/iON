@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    border: 0px;
+}
+
+iframe{
+    width: 100vw;
+    height: 100vh;
+}
+.trackingCount{
+    width: 100vw;
+    height: 100vh;
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
